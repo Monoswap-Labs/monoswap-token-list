@@ -16,7 +16,7 @@
       "decimals": 18
     },
     {
-      "logoURI": "https://gho.aave.com/icons/tokens/gho.svg",
+      "logoURI": "https://raw.githubusercontent.com/MonoSwapDev/Monoswap/main/blockchains/blast_sepolia/assets/0x67a0953033644A9ffB75a70906583fd7280e7248/logo.png",
       "chainId": 168587773,
       "address": "0x67a0953033644A9ffB75a70906583fd7280e7248",
       "name": "Test Token",
