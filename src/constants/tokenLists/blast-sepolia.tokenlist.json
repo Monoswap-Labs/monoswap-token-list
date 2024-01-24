@@ -16,13 +16,29 @@
       "decimals": 18
     },
     {
-      "logoURI": "https://raw.githubusercontent.com/MonoSwapDev/Monoswap/main/blockchains/blast_sepolia/assets/0x67a0953033644A9ffB75a70906583fd7280e7248/logo.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/1/thumb/bitcoin.png?1696501400",
       "chainId": 168587773,
-      "address": "0x67a0953033644A9ffB75a70906583fd7280e7248",
-      "name": "Test Token",
-      "symbol": "Test",
+      "address": "0xd978724d457f441603e550a8e0d59848515e21A2",
+      "name": "Test Bitcoin",
+      "symbol": "BTC",
+      "decimals": 8
+    },
+    {
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/usdc.png?1696506694",
+      "chainId": 168587773,
+      "address": "0x7Cb0C805544C5BA83A6e014A9e199E1C8ed16137",
+      "name": "Test USDC",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    {
+      "logoURI": "https://raw.githubusercontent.com/MonoSwapDev/Monoswap/main/blockchains/blast_sepolia/assets/0xe13521B74b9bdb3B9d476A8EA5D871cb742c1615/logo.png",
+      "chainId": 168587773,
+      "address": "0xe13521B74b9bdb3B9d476A8EA5D871cb742c1615",
+      "name": "Test Mono",
+      "symbol": "tMONO",
       "decimals": 18
-    }
+    },
   ],
   "logoURI": "ipfs://"
 }
