@@ -1,0 +1,21 @@
+{
+  "name": "@monoswap-labs/monoswap-token-list",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "Token list for Monoswap",
+  "main": "build/monoswap-default.tokenlist.json",
+  "files": [
+    "build/monoswap-default.tokenlist.json"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "npx rimraf build && mkdir build && node src/write.js > build/monoswap-default.tokenlist.json",
+    "prepublishOnly": "npm run build"
+  },
+  "homepage": "https://github.com/monoswap-labs/monoswap-token-list#readme",
+  "devDependencies": {
+    "rimraf": "^5.0.5"
+  }
+}

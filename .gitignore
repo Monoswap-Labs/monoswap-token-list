@@ -1,1 +1,5 @@
+*.log
+node_modules
+dist
+build/
 .idea
