@@ -1,0 +1,44 @@
+{
+  "name": "Blast Sepolia Tokens",
+  "timestamp": "2024-01-20T22:44:18.339Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "tokens": [
+    {
+      "logoURI": "https://assets.coingecko.com/coins/images/2518/thumb/weth.png?1628852295",
+      "chainId": 168587773,
+      "address": "0x4200000000000000000000000000000000000023",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18
+    },
+    {
+      "logoURI": "https://assets.coingecko.com/coins/images/1/thumb/bitcoin.png?1696501400",
+      "chainId": 168587773,
+      "address": "0xcF749620571A3920a27CD8Eef17Daa1db7C93c4C",
+      "name": "Test Bitcoin",
+      "symbol": "tBTC",
+      "decimals": 8
+    },
+    {
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/usdc.png?1696506694",
+      "chainId": 168587773,
+      "address": "0xda9C093a7D9e41d21Dc9A7ff5601A3FD02111d95",
+      "name": "Test USDC",
+      "symbol": "tUSDC",
+      "decimals": 6
+    },
+    {
+      "logoURI": "https://raw.githubusercontent.com/MonoSwapDev/Monoswap/main/blockchains/blast_sepolia/assets/0xe13521B74b9bdb3B9d476A8EA5D871cb742c1615/logo.png",
+      "chainId": 168587773,
+      "address": "0xa07aC8cDe2a98B189477b8e41F0c2Ea6CdDbC055",
+      "name": "Test Mono",
+      "symbol": "tMONO",
+      "decimals": 18
+    }
+  ],
+  "logoURI": "ipfs://"
+}
