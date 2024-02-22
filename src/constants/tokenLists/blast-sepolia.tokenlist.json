@@ -40,6 +40,14 @@
       "decimals": 18
     },
     {
+      "logoURI": "https://raw.githubusercontent.com/MonoSwapDev/Monoswap/main/blockchains/blast_sepolia/assets/0x09B4a7BFc27Bf2EE18A20F0aBcc2cC648Cdf7578/logo.png",
+      "chainId": 168587773,
+      "address": "0x09B4a7BFc27Bf2EE18A20F0aBcc2cC648Cdf7578",
+      "name": "Test YIELD",
+      "symbol": "tYIELD",
+      "decimals": 18
+    },
+    {
       "logoURI": "https://https://gitlab.com/envelop/web3-sdk-applications/wrapper-sdk/-/blob/master/src/static/pics/coins/niftsy32x32.png",
       "chainId": 168587773,
       "address": "0x64c7309329Ec23Fd4904d8cbe75c39766e03764b",
