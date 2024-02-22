@@ -1,10 +1,10 @@
 {
   "name": "Blast Sepolia Tokens",
-  "timestamp": "2024-01-20T22:44:18.339Z",
+  "timestamp": "2024-02-22T16:10:18.339Z",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "tokens": [
     {
@@ -32,7 +32,7 @@
       "decimals": 6
     },
     {
-      "logoURI": "https://raw.githubusercontent.com/MonoSwapDev/Monoswap/main/blockchains/blast_sepolia/assets/0xe13521B74b9bdb3B9d476A8EA5D871cb742c1615/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/Monoswap-Labs/monoswap-token-list/main/img/blast_sepolia/assets/0xe13521B74b9bdb3B9d476A8EA5D871cb742c1615/logo.png",
       "chainId": 168587773,
       "address": "0xa07aC8cDe2a98B189477b8e41F0c2Ea6CdDbC055",
       "name": "Test Mono",
@@ -40,7 +40,7 @@
       "decimals": 18
     },
     {
-      "logoURI": "https://raw.githubusercontent.com/MonoSwapDev/Monoswap/main/blockchains/blast_sepolia/assets/0x09B4a7BFc27Bf2EE18A20F0aBcc2cC648Cdf7578/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/Monoswap-Labs/monoswap-token-list/main/img/blast_sepolia/assets/0x09B4a7BFc27Bf2EE18A20F0aBcc2cC648Cdf7578/logo.png",
       "chainId": 168587773,
       "address": "0x09B4a7BFc27Bf2EE18A20F0aBcc2cC648Cdf7578",
       "name": "Test YIELD",
@@ -48,11 +48,27 @@
       "decimals": 18
     },
     {
-      "logoURI": "https://https://gitlab.com/envelop/web3-sdk-applications/wrapper-sdk/-/blob/master/src/static/pics/coins/niftsy32x32.png",
+      "logoURI": "https://raw.githubusercontent.com/Monoswap-Labs/monoswap-token-list/main/img/blast_sepolia/assets/0x64c7309329Ec23Fd4904d8cbe75c39766e03764b/logo.png",
       "chainId": 168587773,
       "address": "0x64c7309329Ec23Fd4904d8cbe75c39766e03764b",
       "name": "NIFTSY",
       "symbol": "NIFTSY",
+      "decimals": 18
+    },
+    {
+      "logoURI": "https://raw.githubusercontent.com/Monoswap-Labs/monoswap-token-list/main/img/blast_sepolia/assets/0x54D12b155dA569aaEa910A778Eb3EC9cd2B26230/logo.png",
+      "chainId": 168587773,
+      "address": "0x54D12b155dA569aaEa910A778Eb3EC9cd2B26230",
+      "name": "Monoswap USD",
+      "symbol": "MUSD",
+      "decimals": 18
+    },
+    {
+      "logoURI": "https://raw.githubusercontent.com/Monoswap-Labs/monoswap-token-list/main/img/blast_sepolia/assets/0x4200000000000000000000000000000000000022/logo.png",
+      "chainId": 168587773,
+      "address": "0x4200000000000000000000000000000000000022",
+      "name": "Monoswap USD",
+      "symbol": "USDB",
       "decimals": 18
     }
   ],
