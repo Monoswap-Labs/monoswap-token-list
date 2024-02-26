@@ -1,0 +1,28 @@
+{
+  "name": "Blast Tokens",
+  "timestamp": "2024-02-26T16:10:18.339Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "logoURI": "https://assets.coingecko.com/coins/images/2518/thumb/weth.png?1628852295",
+      "chainId": 81457,
+      "address": "0x4200000000000000000000000000000000000023",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18
+    },
+    {
+      "logoURI": "https://raw.githubusercontent.com/Monoswap-Labs/monoswap-token-list/main/img/blast/assets/0x4200000000000000000000000000000000000022/logo.png",
+      "chainId": 81457,
+      "address": "0x4200000000000000000000000000000000000022",
+      "name": "Rebasing USD",
+      "symbol": "USDB",
+      "decimals": 18
+    }
+  ],
+  "logoURI": "ipfs://"
+}
