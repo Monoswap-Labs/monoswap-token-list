@@ -67,7 +67,7 @@
       "logoURI": "https://raw.githubusercontent.com/Monoswap-Labs/monoswap-token-list/main/img/blast_sepolia/assets/0x4200000000000000000000000000000000000022/logo.png",
       "chainId": 168587773,
       "address": "0x4200000000000000000000000000000000000022",
-      "name": "Monoswap USD",
+      "name": "Rebasing USD",
       "symbol": "USDB",
       "decimals": 18
     }
