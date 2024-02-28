@@ -22,6 +22,14 @@
       "name": "Rebasing USD",
       "symbol": "USDB",
       "decimals": 18
+    },
+    {
+      "logoURI": "https://raw.githubusercontent.com/Monoswap-Labs/monoswap-token-list/main/img/blast/assets/0x837fE561e9C5DFa73F607fDa679295DBC2Be5E40/logo.png",
+      "chainId": 81457,
+      "address": "0x837fE561e9C5DFa73F607fDa679295DBC2Be5E40",
+      "name": "Monoswap USD",
+      "symbol": "MUSD",
+      "decimals": 18
     }
   ],
   "logoURI": "ipfs://"
