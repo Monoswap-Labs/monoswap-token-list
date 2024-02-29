@@ -32,10 +32,10 @@
       "decimals": 18
     },
     {
-      "logoURI": "https://raw.githubusercontent.com/Monoswap-Labs/monoswap-token-list/main/img/blast/assets/0xA5DC1756eCe8cEB6f39eD84E633AFEbF38770133/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/Monoswap-Labs/monoswap-token-list/main/img/blast/assets/0x2Ef6EE4884892b15DfCF53B33ed139FEF6141A49/logo.png",
       "chainId": 81457,
-      "address": "0xA5DC1756eCe8cEB6f39eD84E633AFEbF38770133",
-      "name": "Dogwifblast",
+      "address": "0x2Ef6EE4884892b15DfCF53B33ed139FEF6141A49",
+      "name": "Dog Wif Blast",
       "symbol": "WIF",
       "decimals": 18
     }
