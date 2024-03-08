@@ -46,6 +46,14 @@
       "name": "xMonoswap",
       "symbol": "xMono",
       "decimals": 18
+    },
+    {
+      "logoURI": "https://raw.githubusercontent.com/Monoswap-Labs/monoswap-token-list/main/img/blast/assets/0x5f49349fB82454d4cA935f3e2e736bD5BE556578/logo.png",
+      "chainId": 81457,
+      "address": "0x5f49349fB82454d4cA935f3e2e736bD5BE556578",
+      "name": "BLSTE",
+      "symbol": "BLSTE",
+      "decimals": 18
     }
   ],
   "logoURI": "ipfs://"
