@@ -70,6 +70,14 @@
       "name": "Rebasing USD",
       "symbol": "USDB",
       "decimals": 18
+    },
+    {
+      "logoURI": "https://raw.githubusercontent.com/Monoswap-Labs/monoswap-token-list/main/img/blast_sepolia/assets/0xC256D404eAaC5bCE4560502Dcf4A924ED9e31c37/logo.png",
+      "chainId": 168587773,
+      "address": "0xC256D404eAaC5bCE4560502Dcf4A924ED9e31c37",
+      "name": "MoonBlast",
+      "symbol": "MNB",
+      "decimals": 18
     }
   ],
   "logoURI": "ipfs://"
