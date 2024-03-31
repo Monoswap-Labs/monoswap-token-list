@@ -1,6 +1,6 @@
 {
   "name": "@monoswap-labs/monoswap-token-list",
-  "version": "0.1.0",
+  "version": "4.0.0",
   "license": "MIT",
   "description": "Token list for Monoswap",
   "main": "build/monoswap-default.tokenlist.json",

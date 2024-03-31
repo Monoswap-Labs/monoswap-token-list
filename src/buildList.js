@@ -1,5 +1,6 @@
 const { version } = require('../package.json');
 const blastSepolia = require('./constants/tokenLists/blast-sepolia.tokenlist.json');
+const blastMainnet = require('./constants/tokenLists/blast.tokenlist.json');
 
 module.exports = function buildList() {
   const parsed = version.split('.');
@@ -14,7 +15,7 @@ module.exports = function buildList() {
     tags: {},
     logoURI: '',
     keywords: ['monoswap', 'default'],
-    tokens: [...blastSepolia.tokens]
+    tokens: [...blastSepolia.tokens, ...blastMainnet.tokens]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {
