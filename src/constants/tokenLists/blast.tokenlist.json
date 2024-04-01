@@ -46,6 +46,14 @@
       "name": "BLSTE",
       "symbol": "BLSTE",
       "decimals": 18
+    },
+    {
+      "logoURI": "https://assets.coingecko.com/coins/images/36459/standard/pacmoon.png?1711501114",
+      "chainId": 81457,
+      "address": "0x5ffd9EbD27f2fcAB044c0f0a26A45Cb62fa29c06",
+      "name": "Pacmoon",
+      "symbol": "PAC",
+      "decimals": 18
     }
   ],
   "logoURI": "ipfs://"
