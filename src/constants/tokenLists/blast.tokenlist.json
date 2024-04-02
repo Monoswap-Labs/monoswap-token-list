@@ -54,6 +54,14 @@
       "name": "Pacmoon",
       "symbol": "PAC",
       "decimals": 18
+    },
+    {
+      "logoURI": "https://raw.githubusercontent.com/Monoswap-Labs/monoswap-token-list/main/img/blast/assets/0x67fa2887914fA3729e9EED7630294Fe124f417A0/logo.png",
+      "chainId": 81457,
+      "address": "0x67fa2887914fA3729e9EED7630294Fe124f417A0",
+      "name": "Yield Token",
+      "symbol": " YIELD",
+      "decimals": 18
     }
   ],
   "logoURI": "ipfs://"
