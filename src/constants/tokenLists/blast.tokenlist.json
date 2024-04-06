@@ -62,6 +62,14 @@
       "name": "Yield Token",
       "symbol": " YIELD",
       "decimals": 18
+    },
+    {
+      "logoURI": "https://raw.githubusercontent.com/Monoswap-Labs/monoswap-token-list/main/img/blast/assets/0x73c369F61c90f03eb0Dd172e95c90208A28dC5bc/logo.png",
+      "chainId": 81457,
+      "address": "0x73c369F61c90f03eb0Dd172e95c90208A28dC5bc",
+      "name": "OpenLeverage",
+      "symbol": " OLE",
+      "decimals": 18
     }
   ],
   "logoURI": "ipfs://"
