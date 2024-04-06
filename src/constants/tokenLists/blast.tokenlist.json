@@ -72,9 +72,9 @@
       "decimals": 18
     },
     {
-      "logoURI": "https://raw.githubusercontent.com/Monoswap-Labs/monoswap-token-list/main/img/blast/assets/0x5fe8534a6f96cb01261bd96e98c17c2c1cab3204/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/Monoswap-Labs/monoswap-token-list/main/img/blast/assets/0x5FE8534a6F96cb01261Bd96e98c17C2c1Cab3204/logo.png",
       "chainId": 81457,
-      "address": "0x5fe8534a6f96cb01261bd96e98c17c2c1cab3204",
+      "address": "0x5FE8534a6F96cb01261Bd96e98c17C2c1Cab3204",
       "name": "Baja",
       "symbol": " BAJA",
       "decimals": 18
