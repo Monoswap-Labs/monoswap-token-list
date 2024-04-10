@@ -86,6 +86,14 @@
       "name": "Andy",
       "symbol": " ANDY",
       "decimals": 9
+    },
+    {
+      "logoURI": "https://assets.coingecko.com/coins/images/36503/standard/juice-logo-purple-200x200_%281%29.png?1711619018",
+      "chainId": 81457,
+      "address": "0x818a92bc81Aad0053d72ba753fb5Bc3d0C5C0923",
+      "name": "Juice",
+      "symbol": " JUICE",
+      "decimals": 18
     }
   ],
   "logoURI": "ipfs://"
