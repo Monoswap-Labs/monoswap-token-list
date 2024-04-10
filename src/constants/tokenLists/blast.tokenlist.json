@@ -78,6 +78,14 @@
       "name": "Baja",
       "symbol": " BAJA",
       "decimals": 18
+    },
+    {
+      "logoURI": "https://assets.coingecko.com/coins/images/35767/standard/IMG_0310.jpeg?1711371918",
+      "chainId": 81457,
+      "address": "0xd43D8aDAC6A4C7d9Aeece7c3151FcA8f23752cf8",
+      "name": "Andy",
+      "symbol": " ANDY",
+      "decimals": 9
     }
   ],
   "logoURI": "ipfs://"
