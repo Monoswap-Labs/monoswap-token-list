@@ -94,6 +94,22 @@
       "name": "Juice",
       "symbol": " JUICE",
       "decimals": 18
+    },
+    {
+      "logoURI": "https://raw.githubusercontent.com/Monoswap-Labs/monoswap-token-list/main/img/blast/assets/0x20fE91f17ec9080E3caC2d688b4EcB48C5aC3a9C/logo.png",
+      "chainId": 81457,
+      "address": "0x20fE91f17ec9080E3caC2d688b4EcB48C5aC3a9C",
+      "name": "YES",
+      "symbol": " YES",
+      "decimals": 18
+    },
+    {
+      "logoURI": "https://raw.githubusercontent.com/Monoswap-Labs/monoswap-token-list/main/img/blast/assets/0x216A5a1135A9dab49FA9Ad865E0f22FE22b5630A/logo.png",
+      "chainId": 81457,
+      "address": "0x216A5a1135A9dab49FA9Ad865E0f22FE22b5630A",
+      "name": "Pump",
+      "symbol": " PUMP",
+      "decimals": 18
     }
   ],
   "logoURI": "ipfs://"
