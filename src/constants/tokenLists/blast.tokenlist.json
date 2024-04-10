@@ -110,6 +110,14 @@
       "name": "Pump",
       "symbol": " PUMP",
       "decimals": 18
+    },
+    {
+      "logoURI": "https://raw.githubusercontent.com/Monoswap-Labs/monoswap-token-list/main/img/blast/assets/0x000000dAA580e54635a043D2773f2c698593836a/logo.png",
+      "chainId": 81457,
+      "address": "0x000000dAA580e54635a043D2773f2c698593836a",
+      "name": "Oh No",
+      "symbol": " OHNO",
+      "decimals": 18
     }
   ],
   "logoURI": "ipfs://"
