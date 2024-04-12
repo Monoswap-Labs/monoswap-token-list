@@ -126,6 +126,14 @@
       "name": "Renzo Restaked ETH",
       "symbol": "ezETH",
       "decimals": 18
+    },
+    {
+      "logoURI": "https://assets.coingecko.com/coins/images/35675/standard/orbit.png?1709520496",
+      "chainId": 81457,
+      "address": "0x42E12D42b3d6C4A74a88A61063856756Ea2DB357",
+      "name": "Orbit Protocol",
+      "symbol": "ORBIT",
+      "decimals": 18
     }
   ],
   "logoURI": "ipfs://"
