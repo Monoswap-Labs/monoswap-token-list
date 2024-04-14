@@ -60,7 +60,7 @@
       "chainId": 81457,
       "address": "0x67fa2887914fA3729e9EED7630294Fe124f417A0",
       "name": "Yield Token",
-      "symbol": " YIELD",
+      "symbol": "YIELD",
       "decimals": 18
     },
     {
@@ -68,7 +68,7 @@
       "chainId": 81457,
       "address": "0x73c369F61c90f03eb0Dd172e95c90208A28dC5bc",
       "name": "OpenLeverage",
-      "symbol": " OLE",
+      "symbol": "OLE",
       "decimals": 18
     },
     {
@@ -76,7 +76,7 @@
       "chainId": 81457,
       "address": "0x5FE8534a6F96cb01261Bd96e98c17C2c1Cab3204",
       "name": "Baja",
-      "symbol": " BAJA",
+      "symbol": "BAJA",
       "decimals": 18
     },
     {
@@ -84,7 +84,7 @@
       "chainId": 81457,
       "address": "0xd43D8aDAC6A4C7d9Aeece7c3151FcA8f23752cf8",
       "name": "Andy",
-      "symbol": " ANDY",
+      "symbol": "ANDY",
       "decimals": 9
     },
     {
@@ -92,7 +92,7 @@
       "chainId": 81457,
       "address": "0x818a92bc81Aad0053d72ba753fb5Bc3d0C5C0923",
       "name": "Juice",
-      "symbol": " JUICE",
+      "symbol": "JUICE",
       "decimals": 18
     },
     {
@@ -100,7 +100,7 @@
       "chainId": 81457,
       "address": "0x20fE91f17ec9080E3caC2d688b4EcB48C5aC3a9C",
       "name": "YES",
-      "symbol": " YES",
+      "symbol": "YES",
       "decimals": 18
     },
     {
@@ -108,7 +108,7 @@
       "chainId": 81457,
       "address": "0x216A5a1135A9dab49FA9Ad865E0f22FE22b5630A",
       "name": "Pump",
-      "symbol": " PUMP",
+      "symbol": "PUMP",
       "decimals": 18
     },
     {
@@ -116,7 +116,7 @@
       "chainId": 81457,
       "address": "0x000000dAA580e54635a043D2773f2c698593836a",
       "name": "Oh No",
-      "symbol": " OHNO",
+      "symbol": "OHNO",
       "decimals": 18
     },
     {
