@@ -134,6 +134,14 @@
       "name": "Orbit Protocol",
       "symbol": "ORBIT",
       "decimals": 18
+    },
+    {
+      "logoURI": "https://assets.coingecko.com/coins/images/34802/standard/logo-png.png?1706092934",
+      "chainId": 81457,
+      "address": "0x71CA0E46434b4dfbd7065aFE508C9A107eB3a522",
+      "name": "ZKDX",
+      "symbol": "ZKDX",
+      "decimals": 18
     }
   ],
   "logoURI": "ipfs://"
