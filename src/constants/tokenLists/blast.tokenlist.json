@@ -139,8 +139,16 @@
       "logoURI": "https://assets.coingecko.com/coins/images/34802/standard/logo-png.png?1706092934",
       "chainId": 81457,
       "address": "0x71CA0E46434b4dfbd7065aFE508C9A107eB3a522",
-      "name": "ZKDX",
+      "name": "zkDX",
       "symbol": "ZKDX",
+      "decimals": 18
+    },
+    {
+      "logoURI": "https://raw.githubusercontent.com/Monoswap-Labs/monoswap-token-list/main/img/blast/assets/0x082E53a6519c5e0EC846D3Dc6eE499011601990A/logo.png",
+      "chainId": 81457,
+      "address": "0x082E53a6519c5e0EC846D3Dc6eE499011601990A",
+      "name": "KID",
+      "symbol": "KID",
       "decimals": 18
     }
   ],
