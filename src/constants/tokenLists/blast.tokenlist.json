@@ -150,6 +150,14 @@
       "name": "KID",
       "symbol": "KID",
       "decimals": 18
+    },
+    {
+      "logoURI": "https://raw.githubusercontent.com/Monoswap-Labs/monoswap-token-list/main/img/blast/assets/0x2F67F59b3629Bf24962290DB9edE0CD4127e606D/logo.png",
+      "chainId": 81457,
+      "address": "0x2F67F59b3629Bf24962290DB9edE0CD4127e606D",
+      "name": "Kalax",
+      "symbol": "KALA",
+      "decimals": 18
     }
   ],
   "logoURI": "ipfs://"
