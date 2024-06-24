@@ -158,6 +158,14 @@
       "name": "Kalax",
       "symbol": "KALA",
       "decimals": 18
+    },
+    {
+      "logoURI": "https://assets.coingecko.com/coins/images/38723/standard/token-yolo.png?1718477580",
+      "chainId": 81457,
+      "address": "0xf77dd21c5ce38ac08786BE35Ef1d1DeC1a6a15F3",
+      "name": "YOLO Games",
+      "symbol": "YOLO",
+      "decimals": 18
     }
   ],
   "logoURI": "ipfs://"
